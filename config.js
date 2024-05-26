@@ -1,11 +1,11 @@
 /** enter owner number */
-global.owner = ['6281252848955']
+global.owner = ['62885174396991']
 /** https://api.alyachan.pro/pricing */
 global.APIs = {
   alya: 'https://api.alyachan.dev'
 }
 global.APIKeys = {
-  'https://api.alyachan.dev': 'yourkey'
+  'https://api.alyachan.dev': 'literap'
 }
 /** option setting */
 global.set = {
@@ -15,7 +15,7 @@ global.set = {
   author: 'moon-bot'
 }
 /** enter your bot number to login using the code */
-global.pairingNumber = 6283867587556
+global.pairingNumber = 6282321761211
 /** enter your replit link, so it's active 24/7 */
 global.replit_url = ''
 /** the bigger it gets the harder it is to level up */
